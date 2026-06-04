@@ -1,0 +1,10 @@
+# 环境变量（含 OSS 密钥），不提交
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+
+.claude/skills/
